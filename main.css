@@ -662,7 +662,7 @@ body::-webkit-scrollbar-thumb {
 ==============================*/
 .home {
   position: relative;
-  margin-top: 80px;
+  margin-top: 0px;
 }
 .home--title {
   padding-top: 30px;
@@ -934,7 +934,7 @@ body::-webkit-scrollbar-thumb {
 }
 @media (min-width: 1200px) {
   .home {
-    margin-top: 100px;
+    margin-top: 0px;
   }
   .home--static {
     margin-top: 0;
